@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-    will_paginate @collectoin, :renderer =>  WillPaginate::ActionView::RemoteLinkRenderer
+    will_paginate @collection, :renderer =>  WillPaginate::ActionView::RemoteLinkRenderer
 
 ## Contributing
 
