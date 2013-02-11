@@ -1,6 +1,6 @@
 # WillPaginateRemote
 
-TODO: Write a gem description
+Adds data-remote='true' attribute to will_paginate links.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    will_paginate @collectoin, :renderer =>  WillPaginate::ActionView::RemoteLinkRenderer
 
 ## Contributing
 
